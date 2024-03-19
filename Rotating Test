@@ -1,0 +1,1769 @@
+    <style type="text/css">
+ body,iframe,blockquote,pre,form,ul,ol,p,input{margin:0}.cf:after{content:".";display:block;clear:both;visibility:hidden;height:0;line-height:0;font-size:0}.ad-container table{width:auto;border-collapse:separate;table-layout:auto;margin:0 auto}.ad-container td{white-space:normal;overflow:visible;padding:1px;box-sizing:content-box}.pushdown,.banner{position:relative}table{width:100%;border-collapse:collapse;border-spacing:0;background:#fff;table-layout:fixed;border:solid 1px #e8e8e8}td,th,caption{vertical-align:middle;padding:6px 4px;-moz-box-sizing:border-box;box-sizing:border-box}td,th{white-space:nowrap;font-weight:normal;overflow:hidden;text-align:left;text-overflow:ellipsis}thead>tr{background:#787878}thead th,thead td{color:#fff;border-color:#e8e8e8}thead a,thead a:link{color:#fff}thead a:hover,thead a:visited{color:#ccc}table .sorted>a,table .sorted>span{padding:0 12px 0 0}table .asc>a,table .asc>span{background:url(http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/up.gif) no-repeat right center}table .desc>a,table .desc>span{background:url(http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/down.gif) no-repeat right center}td.first,th.first{border-left:1px solid #e8e8e8;padding-left:8px}td.last,th.last{border-right:1px solid #e8e8e8;padding-right:8px}thead th,thead td,tr.first>td,tr.first>th{border-top:1px solid #e8e8e8}tr.last>td,tr.last>th{border-bottom:1px solid #e8e8e8}tr.alternate{background:#f8f8f8}tfoot>tr{background:#f8f8f8}tr.highlighted,tbody>tr:hover{background:#d9e2ea;-webkit-transition:background-color .3s ease-out,border-bottom-color .3s ease-out;-moz-transition:background-color .3s ease-out,border-bottom-color .3s ease-out;-ms-transition:background-color .3s ease-out,border-bottom-color .3s ease-out;transition:background-color .3s ease-out,border-bottom-color .3s ease-out}ul{list-style:none;padding:0}ol{list-style-type:decimal}address{text-decoration:none}abbr,accronym,object{outline:0;border:0}accronym{letter-spacing:.1em}fieldset{display:block;border:1px solid #ddd;padding:1em 8px;margin:1em 0}input[type=text],input[type=password],input.text,input.title,textarea,select{font-family:Verdana,Helvetica,Arial,Sans-Serif;background-color:#fff;border:1px solid #bbb}input[type=text]:focus,input[type=password]:focus,input.text:focus,input.title:focus,textarea:focus,select:focus{border-color:#777}input.text,input.title{width:300px;padding:.5em}textarea{width:390px;height:250px;padding:.5em;-moz-box-sizing:border-box;box-sizing:border-box;max-width:100%}input[type=checkbox],input[type=radio],input.checkbox,input.radio{position:relative;top:3px;padding:0}html{font-family:Verdana,Helvetica,Arial,Sans-Serif;font-weight:normal;font-variant:normal;color:#333;font-size:75%;line-height:1.5}body{background:#f9f9f9;-webkit-font-smoothing:antialiased;font-size:12px;font-size:1rem}p{font-size:1.1em}p,h1,h2,h3,h4{font-family:Verdana,Helvetica,Arial,Sans-Serif}h1,h2,h3,h4{font-weight:bold}h1,h2{color:#595959;border-bottom:3px solid #3778b4}h1{font-size:2em;margin:0 0 1em 0}h2{size:1.66em;margin:2em 0 .5em 0;padding:0 0 .5em 0;border-width:1px}.field h1,.field h2{color:#595959;border-color:#3f9508}.court h1,.court h2{color:#595959;border-color:#cf7a30}h3{font-size:1.33em;margin:.5em 0}h4{font-size:1.25em;margin:.5em 0}label{font-weight:bold}a,a:link{text-decoration:none;color:#3778b4;cursor:pointer}a:hover,a:active{text-decoration:underline;color:#00f}a img{border:0}#header,#content{text-align:center}#header_center,.content-center{margin:0 auto;text-align:left}#content{width:980px;margin:10px auto 0;position:relative}.content-center{padding:1em;margin:0 auto 1em;border-bottom:0;background:#fff;border-radius:4px;box-shadow:0 9px 7px -7px rgba(0,0,0,0.5);width:980px;-moz-box-sizing:border-box;box-sizing:border-box}#nrelate_related_placeholder{margin:4em 0 0}#link_account_container,#share_container{background:url(http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/backgrounds/caption_background.png) repeat;position:fixed;width:100%;height:100%;top:0;left:0;text-align:left;color:#333;z-index:5000001}#link_account_modal,#share_modal{width:600px;position:absolute;margin-left:-327px;left:50%;top:25%;background:#fff;border:#e0e0e0 solid 3px;padding:24px;z-index:5000002}#share_container .header{border-bottom:1px solid #900;margin-bottom:.5em}#share_container .header a{float:right;display:inline-block;padding:2px 4px}#share_container h3{margin:0}#header{background:url(http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/site_themes/header_background.jpg) no-repeat center 0 #00202a;color:#333;box-shadow:0 1px 0 rgba(160,160,160,0.75) inset;margin-bottom:3px}#header_center{width:980px;padding:1px 0 0}#header_center .logo{float:left;display:block;margin:.5em 0 .5em 1em;height:54px;width:190px;background:url(http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/site_themes/mxp-logo-red.png) no-repeat;background-size:190px}#header_center .btnLogo{height:100%;width:190px;display:inline-block}.slogan{border:0;color:#f0f0f0;float:left;font-family:Verdana,Helvetica,Arial,Sans-Serif;font-size:1.2em;font-weight:bold;margin:1.5em 75px 0;padding:0;text-shadow:0 -1px 0 rgba(0,0,0,0.8);opacity:.45}.header-navigation{background:#333;background:-moz-linear-gradient(top,#464646 0,#242424 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#464646),color-stop(100%,#242424));background:-webkit-linear-gradient(top,#464646 0,#242424 100%);background:-ms-linear-gradient(top,#464646 0,#242424 100%);background:linear-gradient(top,#464646 0,#242424 100%);box-shadow:0 1px 0 rgba(160,160,160,0.75) inset,0 9px 7px -7px rgba(0,0,0,0.5);border-top:solid 1px #242424}.header-navigation>ul{margin:0 auto;width:980px}.header-navigation:after{clear:both;content:".";display:block;height:0;visibility:hidden}.header-navigation>ul>li{float:left;position:relative;text-align:left}.header-navigation .member-action{float:right}.header-navigation>ul>li>a{display:block;font-size:1.1em;font-weight:bold;color:#fff;padding:0 5px 0 12px;height:41px;line-height:41px;-webkit-text-shadow:0 -1px 0 rgba(0,0,0,0.8);text-shadow:0 -1px 0 rgba(0,0,0,0.8);position:relative;left:-1px}.header-navigation .expandable>a>span{background:url(http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/site_themes/default_sprite.20111219.png) no-repeat right -97px;display:inline-block;height:10px;margin-left:1px;width:10px}.header-navigation .expandable:hover>a,.header-navigation .expandable.hover>a{background-color:#777;background:none,-moz-linear-gradient(top,#808182 0,#6b6d6e 100%);background:none,-webkit-gradient(linear,left top,left bottom,color-stop(0,#808182),color-stop(100%,#6b6d6e));background:none,-webkit-linear-gradient(top,#808182 0,#6b6d6e 100%);background:none,-ms-linear-gradient(top,#808182 0,#6b6d6e 100%);background:none,linear-gradient(top,#808182 0,#6b6d6e 100%);margin-top:-1px;padding:0 4px 0 11px;height:37px;line-height:41px;text-decoration:none;-webkit-border-radius:3px 3px 0 0;border-radius:3px 3px 0 0;-webkit-box-shadow:2px -1px 3px -3px rgba(0,0,0,0.8),0 1px 0 rgba(255,255,255,0.35) inset;box-shadow:2px -1px 3px -3px rgba(0,0,0,0.8),0 1px 0 rgba(255,255,255,0.35) inset;border:1px solid #414141;border-bottom:0;left:-1px;position:relative;z-index:5800001}.header-navigation .expandable>.active{background-color:#262628;background-color:rgba(0,0,0,0.4);-webkit-box-shadow:1px -1px 1px #2a2a2a inset,-1px -1px 1px #2a2a2a inset,2px -1px 1px -1px #5b5b5e,-2px -1px 1px -1px #5b5b5e;box-shadow:1px -1px 1px #2a2a2a inset,-1px -1px 1px #2a2a2a inset,2px -1px 1px -1px #5b5b5e,-2px -1px 1px -1px #5b5b5e;text-decoration:none}.header-sub-navigation{background-color:#777;background:none,-moz-linear-gradient(top,#6b6d6e 0,#5d5d5d 100%);background:none,-webkit-gradient(linear,left top,left bottom,color-stop(0,#6b6d6e),color-stop(100%,#5d5d5d));background:none,-webkit-linear-gradient(top,#6b6d6e 0,#5d5d5d 100%);background:none,-ms-linear-gradient(top,#6b6d6e 0,#5d5d5d 100%);background:none,linear-gradient(top,#6b6d6e 0,#5d5d5d 100%);padding:.5em;width:454px;position:absolute;top:36px;z-index:5800000;-webkit-border-radius:0 3px 3px 3px;border-radius:0 3px 3px 3px;display:none}.header-navigation .expandable:hover>.header-sub-navigation,.header-navigation .expandable.hover>.header-sub-navigation{display:block;-webkit-box-shadow:0 4px 4px 1px rgba(0,0,0,0.25),0 1px 0 rgba(255,255,255,0.35) inset;box-shadow:0 4px 4px 1px rgba(0,0,0,0.25),0 1px 0 rgba(255,255,255,0.35) inset}.header-sub-navigation>.list-container,.header-sub-navigation>.loading,.header-sub-navigation>.error{background:#f9f9f9;-webkit-border-radius:3px;border-radius:3px;border:1px solid rgba(86,87,88,0.8);-webkit-box-shadow:0 1px 0 rgba(255,255,255,0.45);box-shadow:0 1px 0 rgba(255,255,255,0.45);padding:12px 0;zoom:1}.header-sub-navigation>.loading{background:#fff url(http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/icons/loading.gif) no-repeat center;height:48px}.header-sub-navigation>.list-container:after{clear:both;content:".";display:block;height:0;visibility:hidden}.header-sub-navigation ul{float:left;list-style:none}.header-sub-navigation a{border-bottom:1px solid #e9e9e9;padding:6px 0 6px 2px;width:200px;margin:0 12px;-webkit-box-shadow:0 1px 0 #fff;box-shadow:0 1px 0 #fff;-webkit-text-shadow:0 1px 0 #fff;text-shadow:0 1px 0 #fff;display:inline-block;text-decoration:none;-webkit-transition:background-color .3s ease-out,border-bottom-color .3s ease-out;-moz-transition:background-color .3s ease-out,border-bottom-color .3s ease-out;-ms-transition:background-color .3s ease-out,border-bottom-color .3s ease-out;transition:background-color .3s ease-out,border-bottom-color .3s ease-out}.header-sub-navigation li:last-child>a{border-bottom:0;-webkit-box-shadow:none;box-shadow:none}.header-sub-navigation a:hover{background:#d9e2ea}.more-sports>.header-sub-navigation{width:680px;right:-200px;-webkit-border-radius:3px;border-radius:3px}.more-sports .list-container{display:table;table-layout:fixed;padding:0}.more-sports .list-container:after{content:""}.more-sports .list-container>.most-popular-sports,.more-sports .list-container>ul{float:none;display:table-cell;vertical-align:top;padding:1em 0;width:33.33%}.more-sports .most-popular-sports{border-right:1px solid #e9e9e9;padding:0;background:#d9e2e8}.more-sports .most-popular-sports>span{display:block;text-align:center;font-weight:bold;margin:0 0 1em}.more-sports .most-popular-sports li:last-child>a{border-bottom:0 none;box-shadow:none}.more-sports .most-popular-sports li{border-bottom:1px solid #ced5db;box-shadow:none}.more-sports li{padding:6px 0 6px 2px;margin:0 12px;width:200px;box-shadow:0 1px 0 #fff;border-bottom:1px solid #e9e9e9}.more-sports li>a:link{display:inline;box-shadow:none;border-bottom:0;margin:0;padding:0 .25em}.more-sports li>a:hover{background:transparent;text-decoration:underline}.header-navigation>ul>.register,.header-navigation>ul>.member-name{margin-right:.5em}.header-navigation .login>a{padding-left:38px;background:url(http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/site_themes/default_sprite.20111219.png) 0 -635px no-repeat}.header-navigation .register>.header-sub-navigation,.header-navigation .member-name>.header-sub-navigation{right:2px;width:226px;-webkit-border-radius:3px 0 3px 3px;border-radius:3px 0 3px 3px}.header-navigation .member-name>.header-sub-navigation{width:auto;min-width:360px}#header .team-selector-container{display:block;margin:1.5em 0 0 667px}#header .team-selector-container>.ts-input{display:block;border-radius:4px;box-shadow:0 1px 0 rgba(255,255,255,0.45),0 1px 3px rgba(0,0,0,0.5) inset;background:url(http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/site_themes/default_sprite.20111219.png) no-repeat 275px -195px #fff;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;width:300px;height:25px;text-indent:.5em;font-weight:700;color:#595959;line-height:21px;overflow:hidden;text-overflow:ellipsis;border:0;padding:3px 24px 2px 0}.team-selector-container .state{display:block;background:none repeat scroll 0 0 #f9f9f9;border:1px solid #e9e9e9;color:#3778b4;line-height:1;font-size:.75em;padding:2px;width:56px;font-weight:bold;border-radius:2px}.team-selector-container .state>a{color:#900;font-weight:400;position:absolute;right:2px}#footer{background:white;width:956px;margin:0 auto;padding:2em 1em 1em;border-radius:4px 4px 0 0}#footer_center{width:auto;padding:1em;background:#fff;border:solid 1px #e9e9e9;border-radius:4px;font-weight:400;text-align:left;position:relative}#footer_center div{margin-bottom:.5em}#footer_center a,#footer_center cite{font-weight:normal}#footer_center span{margin:0 .5em 0 0}#footer_center cite{font-style:normal;margin:0;display:block;color:#808080}#footer_center .cbs-sports{margin:2.5em 0 0;padding:0;background:0;display:block;width:200px;height:22px;background:url(http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/site_themes/default_sprite.20111219.png) no-repeat 0 -700px;text-indent:-9999px;overflow:hidden;position:absolute;bottom:10px;right:10px}h2.mx-header{background:#3778b4;border-radius:4px;border-bottom-style:none;box-shadow:0 1px 0 rgba(160,160,160,0.5) inset,0 9px 7px -7px rgba(0,0,0,0.5);color:#fff;font-size:1.1em;font-weight:bold;padding:.4em .5em;margin:0 0 .5em 0}.field h2.mx-header{background:#3f9508}.court h2.mx-header{background:#505050}.mx-button:link,.mx-button:visited,.mx-button{border:1px solid #999;padding:2px 18px;margin:0 .5em;display:inline-block;background:url(http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/site_themes/default_sprite.20111219.png) no-repeat center -395px #efefef;border-radius:2px;box-shadow:1px 1px 0 0 rgba(233,233,225,0.8);color:#333;text-decoration:none;text-shadow:1px 1px 0 #e9e9e1;cursor:pointer}.mx-button:hover{color:#3778b4;border-color:#3778b4}.mx-button:active,.mx-button.active{color:#3778b4;border-color:#3778b4;background:url(http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/site_themes/default_sprite.20111219.png) no-repeat center -400px #efefef}.text-search{display:inline-block;border:solid 1px #e9e9e9;padding:1px;background:white}.text-search:hover{border:solid 1px #777}.text-search input{display:inline-block;padding:0;border:0;text-indent:.5em;vertical-align:top}.text-search,.text-search input{height:24px;line-height:24px}.text-search .button{background:url(http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/site_themes/default_sprite.20111219.png) no-repeat 4px -196px;width:24px;cursor:pointer}#breadcrumb{margin:0 0 12px;background:#f9f9f9;padding:.5em;border-radius:4px}#breadcrumb li{margin:0 7px 0 0;display:inline}#breadcrumb li.last{color:#808080}#breadcrumb li:after{content:" / ";color:#ccc;display:inline-block;padding-left:7px}#breadcrumb li.last:after{content:"";padding-left:0}#spotlight{clear:both;padding:1em}#spotlight h2{background:#3778b4;border-radius:4px;border-bottom-style:none;box-shadow:0 1px 0 rgba(160,160,160,0.5) inset,0 9px 7px -7px rgba(0,0,0,0.5);color:#fff;font-size:14px;font-weight:700;padding:.33em .5em .33em 1em;margin:0 0 .5em 0}.field #spotlight h2{background:#3f9508}.court #spotlight h2{background:#505050}#spotlight ul{margin:1em 0 0}#spotlight li{width:32%;padding:0 2% 0 0;float:left}#spotlight .last{padding-right:0;width:31.9%}.navigation-column dt,.navigation-column dd,.navigation-column a,.navigation-column span{display:block}.navigation-column dt,.navigation-column a,.navigation-column span{padding:.4em .5em}.navigation-column a,.navigation-column span{overflow:hidden}.navigation-column span{cursor:default}.navigation-column dd{border:solid 1px #e9e9e9;border-style:none none solid;background:#f9f9f9;color:#3778b4;-webkit-transition:background-color .3s ease-out,border-bottom-color .3s ease-out;-moz-transition:background-color .3s ease-out,border-bottom-color .3s ease-out;-ms-transition:background-color .3s ease-out,border-bottom-color .3s ease-out;transition:background-color .3s ease-out,border-bottom-color .3s ease-out}.navigation-column dd:hover{background:#d9e2ea}.navigation-column .selected{font-weight:bold}.navigation-column dl{margin:0 0 1em}.navigation-column dt{background:#3778b4;color:#fff;font-size:1.1em;font-weight:700;margin:1em 0 5px;border-radius:4px;box-shadow:0 9px 7px -7px rgba(0,0,0,0.5)}.field .navigation-column dt{background:#3f9508}.court .navigation-column dt{background:#505050}.navigation-column dt.first{margin-top:0}.navigation-column dd{margin:0 0 1px}#gigya_share table,#gigya_feed table,#gigya_comments table{background:transparent;table-layout:auto;white-space:normal}#gigya_share td,#gigya_feed td,#gigya_comments td{overflow:auto;white-space:normal}.site-tools{display:inline;border-radius:4px}.link-icon{background:url(http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/sprites/iconsprite.png) no-repeat;display:inline-block;padding-left:22px;height:20px;line-height:20px;margin:.5em .5em 0 0}.site-tools .print{background-position:left -70px}.site-tools .email{background-position:left -90px}.site-tools .share{background:url(http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/site_themes/default_sprite.20111219.png) no-repeat 0 -647px;padding:0 0 0 38px}.fpp-visible{overflow:hidden}.fpp-visible>body{margin-right:15px;overflow:hidden;overflow-y:auto}.default-popup-frame{z-index:5999999;position:fixed;left:0;top:0;right:0;bottom:0;overflow:hidden;overflow-x:auto;overflow-y:scroll;background:rgba(0,0,0,.6)}.default-popup-frame>.table{display:table;height:100%;width:100%;table-layout:fixed}.default-popup-frame .table-cell{display:table-cell;text-align:center;vertical-align:middle;width:100%}.default-popup-frame .inline-block{display:inline-block}.default-popup-frame .inline-block>.content{position:relative;background:#fff;border-radius:4px;margin:20px 0;border:1px solid #ccc;padding:24px;width:500px;box-shadow:0 9px 7px -7px rgba(0,0,0,0.5);text-align:left}.default-popup-frame .close{cursor:pointer;float:right;font-size:20px;font-weight:bold;line-height:20px;color:#000;text-shadow:0 1px 0 #fff;opacity:.2}.default-popup-frame .close:hover{color:#000;text-decoration:none;cursor:pointer;opacity:.4}.default-popup-frame .inline-block>.loading,.default-popup-frame .inline-block>.error{padding:24px;width:400px;background:#fff;position:relative;display:block;-webkit-box-shadow:0 20px 62px rgba(0,0,0,.45);box-shadow:0 20px 62px rgba(0,0,0,.45)}.default-popup-frame .inline-block>.loading{background:#fff url(http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/icons/loading.gif) no-repeat center}.lt-ie-9 .default-popup-frame{background:url(http://www-content-v3.maxpreps.com.edgesuite.net/includes/images/backgrounds/black_60_opacity.png)}.ie-7 .default-popup-frame>.table{position:relative;width:auto;display:block}.ie-7 .default-popup-frame .table-cell{position:absolute;top:50%;display:block;width:100%}.ie-7 .default-popup-frame .inline-block{position:relative;top:-50%;zoom:1}.ie-7 .default-popup-frame .inline-block>.content{max-width:956px}.message-popup .close{float:right;margin:0}.message-popup h2{margin:0 0 .5em;padding:0}#layout_1{padding:0 312px 0 152px;min-width:312px}#layout_1>.content-column,#layout_1>.related-column,#layout_1>.navigation-column{float:left;position:relative;min-height:2em}#layout_1>.content-column{width:100%}#layout_1>.navigation-column{width:140px;margin-left:-100%;right:152px;padding:0 12px 0 0}#layout_1>.related-column{width:300px;margin-right:-100%;padding:0 0 0 12px}#layout_2{padding:0 0 0 152px;min-width:312px}#layout_2>.content-column,#layout_2>.navigation-column{float:left;position:relative;min-height:2em}#layout_2>.content-column{width:100%}#layout_2>.navigation-column{width:140px;margin-left:-100%;right:152px;padding:0 12px 0 0}#layout_3{padding:0 312px 0 0;min-width:312px}#layout_3>.content-column,#layout_3>.related-column{float:left;position:relative;min-height:2em}#layout_3>.content-column{width:100%}#layout_3>.related-column{width:300px;margin-right:-100%;padding:0 0 0 12px}#layout_4{padding:0 0 0 152px;min-width:312px}#layout_4 .content-column,#layout_4 .navigation-column,#layout_4 .related-column{float:left;position:relative;min-height:2em}#layout_4 .content-column{width:100%}#layout_4 .navigation-column{width:140px;margin-left:-100%;right:152px;padding:0 12px 0 0}#layout_4 .columns{padding:0 312px 0 0;min-width:312px}#layout_4 .related-column{width:300px;margin-right:-100%;padding:0 0 0 12px}#layout_5{padding:0 312px 0 0;min-width:312px}#layout_5 .content-column,#layout_5 .navigation-column,#layout_5 .related-column{float:left;position:relative;min-height:2em}#layout_5 .content-column{width:100%}#layout_5 .related-column{width:300px;margin-right:-100%;padding:0 0 0 12px}#layout_5 .columns{padding:0 0 0 152px;min-width:312px}#layout_5 .navigation-column{width:140px;margin-left:-100%;right:152px;padding:0 12px 0 0}  	
+		
+		h1
+		{
+			margin:0;
+		}
+		
+		.tournament-links
+		{
+			margin:1em 0;
+		}
+		
+        .content-box
+        {
+            margin:0 0 1.5em;
+			border:1px solid #CED5DB;
+			padding:2px;
+			
+			-webkit-box-shadow: 0 9px 7px -7px  rgba(0, 0, 0, 0.75);
+			box-shadow: 0 9px 7px -7px  rgba(0, 0, 0, 0.75);	
+        }
+        .content-box h2
+        {
+			margin:0;
+			padding:.5em 1em;
+			border-bottom:1px solid #CED5DB;
+			background:#F1F4F6;
+			
+			font-size:1.25em;
+			color:#777;
+        }
+        .content-box > div
+        {
+			margin:1em;
+			overflow:hidden; /* clear the floated time element */
+        }
+        .content-box > div.footer
+        {
+			margin:0 1em 1em;        
+        }
+        .thumbnails
+        {
+            margin:1em 0 0;
+        }
+        .thumbnails li
+        {
+            width:31.3%;
+            float:left;
+            margin:0 1% 1em;
+            border:solid 1px #e9e9e9;
+            padding:1em;
+            
+			-moz-box-sizing:border-box;
+			box-sizing:border-box; 
+			
+			-webkit-transition: background-color 0.4s ease-out, border-top-color 0.4s ease-out;
+			   -moz-transition: background-color 0.4s ease-out, border-top-color 0.4s ease-out;
+				-ms-transition: background-color 0.4s ease-out, border-top-color 0.4s ease-out;
+				 -o-transition: background-color 0.4s ease-out, border-top-color 0.4s ease-out;
+					transition: background-color 0.4s ease-out, border-top-color 0.4s ease-out;				            
+        }
+        .thumbnails li:hover
+        {
+			background:#f1f4f6;
+			-webkit-box-shadow: 0 9px 7px -7px  rgba(0, 0, 0, 0.75);
+			box-shadow: 0 9px 7px -7px  rgba(0, 0, 0, 0.75);				
+            border:solid 1px #CED5DB;
+        }        
+        .thumbnails li .image
+        {          
+            border:solid 1px #CED5DB;
+            display:block;
+			float:left;
+
+			height:90px;
+			overflow:hidden;
+			width:110px;			
+		}     
+        .thumbnails li .caption
+        {   
+			display:block;
+			font-size:1.1em;
+			margin:0 0 0 122px;
+        }
+        
+        
+        
+        .bracket-notes
+        {
+			margin:1em 0;
+        }
+        
+        
+        
+        
+        .bracket
+        {
+			display:table;
+			width:100%;
+			table-layout:fixed;
+			margin:2em 0;
+			position:relative;
+        }
+        .bracket > .left-side-rounds,
+        .bracket > .right-side-rounds,
+        .bracket > .center-rounds
+        {
+			width:44%;
+			display:table-cell;
+			vertical-align:top;
+        }
+        .bracket > .center-rounds
+        {
+			width:12%;
+			position:relative;
+        }
+        .bracket > .right-side-rounds .match-ups
+        {
+			direction:rtl;
+        }
+        .bracket > .left-side-rounds .round:last-child .match-ups
+        {
+			direction:rtl;
+        }
+        .bracket > .right-side-rounds .round:first-child .match-ups
+        {
+			direction:ltr;
+        }
+        
+        
+        .bracket .match-ups,
+        .bracket .championship-round
+        {
+			position:relative;
+			padding-top:1px; /* this is to prevent the margin-top from shifting to parent... */
+			margin-top:12px;
+        }
+        
+        
+        .bracket .next-round-match-up
+        {
+			position:absolute;
+			width:140%;
+			height:240px;
+			left:0;
+			border-radius:4px;
+			
+			border:2px solid #D44314;
+			-webkit-box-shadow: 0 9px 7px -7px  rgba(0, 0, 0, 0.75);
+			box-shadow: 0 9px 7px -7px  rgba(0, 0, 0, 0.75);
+		}
+        .bracket > .left-side-rounds .next-round-match-up
+        {
+			border-left:none;
+			margin:0 0 0 12px;
+        }
+        .bracket > .right-side-rounds .next-round-match-up
+        {
+			border-right:none;
+			margin:0 12px 0 0;
+			right:0;
+        }
+        
+        
+        
+        
+        .bracket .round
+        {
+			display:inline-block;
+			vertical-align:top;
+        }      
+        .bracket .round > header
+        {
+			background:#f1f4f6;
+			border:1px solid #CED5DB;
+			border-left:0;
+			padding:6px;
+			text-align:center;
+			height:36px;
+        }
+        .bracket .round:first-child > header
+        {
+			border-left:1px solid #CED5DB;
+		}
+        .bracket .round > header > .round-name
+        {
+			display:block;
+			overflow:hidden;
+			text-overflow:ellipsis;
+			white-space:nowrap;
+        }
+        .bracket .round > header > abbr
+        {
+			display:block;
+			overflow:hidden;
+			text-overflow:ellipsis;
+			white-space:nowrap;
+        }  
+        .bracket .match-up
+        {
+			-moz-box-sizing:border-box;
+			box-sizing:border-box;
+			
+			height:90px;
+			padding:.5em;
+			border-bottom: 1px solid #242424;
+			border-top: 1px solid #464646;
+			border-right: 1px solid rgba(0, 0, 0, .5);
+			border-right: 1px solid rgba(0, 0, 0, .5);
+			
+			overflow:hidden;
+			position:relative;
+			z-index:2;
+			
+			background: #333;
+			filter: none;
+			background: -moz-linear-gradient(top,#464646 0,#242424 100%);
+			background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#464646),color-stop(100%,#242424));
+			background: -webkit-linear-gradient(top,#464646 0,#242424 100%);
+			background: -o-linear-gradient(top,#464646 0,#242424 100%);
+			background: -ms-linear-gradient(top,#464646 0,#242424 100%);
+			background: linear-gradient(top,#464646 0,#242424 100%);
+			
+			-webkit-box-shadow: 0 1px 0 rgba(160, 160, 160, 0.75) inset,0 9px 6px -7px  rgba(0, 0, 0, 0.75);
+			box-shadow: 0 1px 0 rgba(160, 160, 160, 0.75) inset,0 9px 7px -7px  rgba(0, 0, 0, 0.75);	
+
+			-webkit-text-shadow: 0 -1px 0 rgba(0,0,0,0.8);
+			text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.8);	
+			
+			direction:ltr;
+        }
+        
+        .bracket .match-up,
+        .bracket .match-up a
+        {
+			color:#cecece;
+		}
+        
+        @media print
+        {
+			.bracket .match-up
+			{
+				background:#fff;
+			}
+			.bracket .match-up,
+			.bracket .match-up a
+			{
+				color:#3778B4;
+			}
+        }
+        .bracket .match-up > header
+        {
+			margin-bottom:3px;
+			font-size:10px;
+			display:block;
+			overflow:hidden;
+			white-space:nowrap;
+        } 
+        .bracket .match-up > header > .date,
+        .bracket .match-up > header > .description
+        {
+			display:inline-block;
+			width:70%;
+        }  
+        .bracket .match-up > header > .date
+        {
+			font-weight:bold;
+        }
+                      
+        .bracket .match-up > header > .description
+        {
+			text-align:right;
+			width:30%;
+        }
+        .bracket .match-up > .teams
+        {
+			border-top:1px solid #464646;
+			border-bottom:1px solid #464646;
+			padding:3px 0;
+			margin-bottom:2px;
+        }
+        .bracket .match-up .team
+        {
+			display:table;
+			table-layout:fixed;
+			width:100%;			
+			height:18px;
+        }
+        .bracket .match-up .team > span,
+        .bracket .match-up .team > a
+        {
+			font-size:11px;
+			display:table-cell;
+        }
+        .bracket .match-up .team > .name
+        {
+			display:block;
+			padding:0 6px 0 0;
+			text-overflow:ellipsis;
+			white-space:nowrap;
+			overflow:hidden;
+		}
+        .bracket .match-up .team > .name > a
+        {
+			font-size:11px;
+        }
+        .bracket .match-up .team > .result
+        {
+			font-size:11px;
+			width:20px;
+			text-align:right;
+        }
+        .bracket .match-up .team > .bye
+        {
+			width:24px;
+        }
+        .bracket .match-up .has-seed > .name
+        {
+			margin-left:6px;
+        }
+        .bracket .match-up .team > .seed
+        {
+			width:14px;
+			font-size:9px;
+			text-align:right;
+        }
+        .bracket .match-up .seed-is-3-chars > .seed
+        {
+			width:20px;
+        }
+        .bracket .match-up .seed-is-4-chars > .seed
+        {
+			width:27px;
+        }
+        .bracket .match-up .seed-is-5-chars > .seed
+        {
+			width:34px;
+        }
+        
+        .bracket .match-up > footer > .location
+        {
+			font-size:9px;
+			display:block;
+			text-overflow:ellipsis;
+			white-space:nowrap; 
+			overflow:hidden;
+        }
+        
+        
+        
+        .bracket .logo
+        {
+			position:absolute;
+			bottom:0;
+			width:179px; /* image width + padding + border */
+			left:50%;
+			margin:0 0 0 -89.5px;
+        }
+        .bracket .logo > img
+        {
+			height:36px;
+			border:1px solid #CED5DB;
+			display:block;
+			background:#F1F4F6;
+			padding:1px;
+			line-height:36px;
+			text-align:center;
+			box-shadow:1px 1px 2px #CED5DB;
+        }
+        
+        
+        
+        
+        /* final round stuff */
+        .bracket > .center-rounds .championship-round
+        {
+			margin-top:50px;
+        }
+        .bracket > .center-rounds .match-ups
+        {
+			position:relative;
+        }
+        .bracket > .center-rounds .round-header
+        {
+			display:block;
+			font-weight:bold;
+			text-align:center;
+			margin:0 0 3px;
+        }
+        .bracket > .center-rounds .match-up
+        {
+			width:100%;
+        }
+        .bracket > .center-rounds .next-round-match-up
+        {
+			top:28px; /* Should be just taller then the header element */
+			width:40%;
+			border-top-width:0;
+        }
+        .bracket > .center-rounds .right-round-line
+        {
+			border-right:0;
+			left:60%;
+        }
+        .bracket > .center-rounds .left-round-line
+        {
+			border-left:0;
+        }
+                
+        
+        
+        
+        /* 2 rounds stuff */
+        .has-2-rounds .round
+        {
+			width:100%;
+        }
+        .has-2-rounds > .pre-championship-rounds .match-up,
+        .has-2-rounds > .pre-championship-rounds .next-round-match-up
+        {
+			width:100%;
+        }
+        .has-2-rounds > .center-rounds .match-ups
+        {
+			width:300%;
+			margin-left:-100%;
+			
+			margin-top:120px;
+        }
+        .has-2-rounds .center-rounds .match-ups > header
+        {
+			position:relative;
+			z-index:2;
+			background:#fff;
+        }
+        .has-2-rounds .center-rounds .match-up
+        {
+			margin-top:5px;
+        }
+        .has-2-rounds .center-rounds .next-round-match-up
+        {
+			top:-63px;
+			height:120px;
+			border-top-width:1px;
+			border-bottom:0;
+        }
+        
+        
+        .has-2-rounds .logo
+        {
+			left:0;
+			margin:0;
+        }
+        
+        
+        /* 3 rounds stuff */
+        .has-3-rounds .match-ups
+        {
+			margin-top:40px;
+        }
+        .has-3-rounds .round
+        {
+			width:50%;
+        }
+        .has-3-rounds > .pre-championship-rounds .match-up,
+        .has-3-rounds > .pre-championship-rounds .next-round-match-up
+        {
+			width:120%;
+        }
+        .has-3-rounds > .center-rounds .match-ups
+        {
+			width:200%;
+			margin-left:-50%;
+			margin-top:12px;
+        }
+        .has-3-rounds > .center-rounds .next-round-match-up 
+        {
+			/* becuz we have ".has-3-rounds .match-ups" with a margin-top of 40 if thro calc off. 
+			This adjusts for that bad calc. */
+			margin-top:28px; 
+        }
+        
+        
+        /* 4 rounds stuff */
+        .has-4-rounds .round
+        {
+			width:33.3%;
+        }
+        .has-4-rounds > .pre-championship-rounds .match-up,
+        .has-4-rounds > .pre-championship-rounds .next-round-match-up
+        {
+			width:135%;
+        }
+        .has-4-rounds > .center-rounds .match-ups
+        {
+			width:200%;
+			margin-left:-50%;
+			
+			margin-top:12px;
+        }
+        .has-4-rounds .center-rounds .next-round-match-up
+        {
+			/* uses default */
+        }
+        
+        
+        /* 5 rounds stuff */
+        .has-5-rounds .round
+        {
+			width:25%;
+        }
+        .has-5-rounds > .pre-championship-rounds .match-up,
+        .has-5-rounds > .pre-championship-rounds .next-round-match-up
+        {
+			width:164%;
+        }
+        .has-5-rounds > .center-rounds .match-ups
+        {
+			width:200%;
+			margin-left:-50%;
+			
+			margin-top:12px;
+        }
+        
+        
+        /* 6 rounds stuff */
+        .has-6-rounds .round /* actually 4 (removing 2 rounds here...) */
+        {
+			width:25%;
+        }
+        .has-6-rounds > .pre-championship-rounds .match-up,
+        .has-6-rounds > .pre-championship-rounds .next-round-match-up
+        {
+			width:164%;
+        }
+        .has-6-rounds .championship-round
+        {
+			position:relative;
+			
+			width:425%;
+			margin-left:-162.5%; /* if width changes then this number will need to change too. */
+			
+			/* calculated using the height of 2 match-ups
+				+ height of 2 match-up headers (if height of headers change this needs to be updated) 
+				+ spacing between them each set. (if spacing between changes this needs to be updated)
+				/ 2 (only want to move it up half height of this total calc).
+			 */
+			margin-top:-168px;
+        }
+        
+        .has-6-rounds .championship-round > div
+        {
+			position:relative;
+        }
+            
+        .has-6-rounds .round-6
+        {
+			width:50%;
+			margin:0 auto 30px;
+        }     
+        .has-6-rounds .round-6 > .next-round-match-up
+        {
+			height:126px;
+			width:45%;
+			top:90px;
+        } 
+        .has-6-rounds .round-6 > .right-round-line
+        {
+			left:auto;
+			right:0;
+        }
+        
+         
+        .has-6-rounds .round-5
+        {
+			position:relative;
+        }
+        .has-6-rounds .round-5 > div
+        {
+			width:40%;
+			left:0;
+			position:absolute;
+        }
+        .has-6-rounds .round-5 > .right-round
+        {
+			right:0;
+			left:auto;
+        }
+        
+        
+        
+        
+        .series-popup .inline-block > .content
+        {
+			width:600px;
+        }
+        .series-popup .close
+        {
+			float:right;
+			margin:5px 0 0;
+        }
+        .series-popup h2
+        {
+			margin-top:0;
+        }
+        .series-popup tbody > tr:hover
+        {
+			background:transparent;
+        }
+        .series-popup .game
+        {
+			text-align:right;
+        }
+        .series-popup td,
+        .series-popup th
+        {
+			padding:.5em 8px;
+        }
+    </style>
+</head>
+    
+    
+    <body class="court page-has-sport-context basketball" >        
+        
+        <form name="aspnetForm" method="post" action="/tournament//view.aspx?bracketid=7e09563c-667c-e211-a211-002655e6c126&amp;ssid=8f3d7615-5396-400f-a736-d120db2726b4&amp;tournamentid=f167acfb-657c-e211-a211-002655e6c126" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY4MTcyODYxOGRk" />
+</div>
+                    
+            <header id="header" >
+                    
+                <div id="header_center" class="cf" >                   
+                    
+                    
+
+					<span class="logo">
+						<a class="btnLogo" id="maxpreps_logo" href="/national/national.htm" title="Go to the MaxPreps home page." ></a>
+					</span>
+					
+                    <span class="slogan">America's Source for High School Sports</span>
+                          
+                    
+                    <div id="ctl00_TeamSelector_TeamSelectorPanel" class="team-selector-container team-selector-container">
+	<input onfocus="this.hasFocus = true; this.initialText = this.value; this.value = '';" onblur="this.hasFocus = false; if(this.value == '') { this.value = this.initialText; };" type="text" class="ts-input" value="Find your High School!" title="Find your school! Enter the high school's name or city." />
+
+</div>
+
+      
+                    
+                                              
+                </div>
+                
+                <nav class='header-navigation' >
+<ul id="gender_sport_navigation" >
+<li data-gender-sport='boys,baseball' data-menu-index='0'  class='expandable' ><a data-lt='home' href='/national/baseball.htm'  > Baseball <span></span></a></li>
+
+<li data-gender-sport='boys,basketball' class='expandable active' ><a data-lt='home' href='/national/basketball.htm' class='active' > Basketball <span></span></a><div class='header-sub-navigation' >
+<div class='list-container' >
+
+			<ul>
+				<li><a data-lt='recruiting' href='/basketball-recruiting/basketball-winter-12-13/wCYqXt4-_UOFFDcVm2uT-g/class-of-2013-top-100/top-recruits.htm' >Recruiting</a></li>
+				<li><a data-lt='qwixcore' href='/qwixcore/basketball.aspx' >Qwixcore</a></li>
+				<li><a data-lt='signing-day' href='/basketball-signing-day/college/basketball/recruits.htm' >College Commitments</a></li>
+				<li><a data-lt='rankings' href='/polls/basketball/xcellent25.htm' >Rankings</a></li>
+				<li><a data-lt='stat-leaders' href='/list/leaderboard_list.aspx?gendersport=boys,basketball' >Stat Leaders</a></li>
+				<li><a data-lt='team-previews' href='/list/team_preview.aspx?gendersport=boys,basketball' >Team Previews</a></li>
+				<li><a data-lt='playoffs' href='/playoffs/brackets.aspx?gendersport=boys,basketball' >Playoffs</a></li>
+				<li><a data-lt='more' href='/list/gendersport_features.aspx?gendersport=boys,basketball'>More</a></li>
+			</ul>
+
+			<ul>
+				<li><a data-lt='blog' href='/blogs/maxwire-national-blog/basketball/home.htm' >Blog</a></li>
+				<li><a data-lt='news' href='/news/articles_list.aspx?gendersport=boys,basketball' >News</a></li>
+				<li><a data-lt='photos' href='/photo/find_photos.aspx?gendersport=boys,basketball' >Photos</a></li>
+				<li><a data-lt='videos' href='/video/watch.aspx#!gendersport=boys,basketball' >Videos</a></li>
+			</ul>
+		
+		
+</div>
+</div>
+
+</li>
+
+<li data-gender-sport='boys,football' data-menu-index='1'  class='expandable' ><a data-lt='home' href='/national/football.htm'  > Football <span></span></a></li>
+
+<li data-gender-sport='girls,basketball' data-menu-index='2'  class='expandable' ><a data-lt='home' href='/national/girls-basketball.htm'  >G Basketball <span></span></a></li>
+
+<li data-gender-sport='girls,volleyball' data-menu-index='3'  class='expandable' ><a data-lt='home' href='/national/volleyball.htm'  > Volleyball <span></span></a></li>
+
+<li data-gender-sport='more-sports' data-menu-index='4'  class='expandable more-sports' ><a data-lt='states-by-sport' href="/search/states_by_sport.aspx" >More Sports <span></span></a>
+</li>
+
+<li class='expandable member-action register' >
+<a class='register' data-dont-track='1' >Join <span></span></a>
+<div class='header-sub-navigation' >
+<div class='list-container' >
+<ul>
+<li><a href='/utility/member/register.aspx' >Member Account</a></li>
+<li><a href='/utility/member/register.aspx?adorcoach=1' >AD/Coach Account</a></li>
+</ul>
+</div>
+</div>
+
+</li>
+<li class='member-action login' >
+<a href='/utility/member/login.aspx?returnurl=47-116-111-117-114-110-97-109-101-110-116-47-118-105-101-119-46-97-115-112-120-63-98-114-97-99-107-101-116-105-100-61-55-101-48-57-53-54-51-99-45-54-54-55-99-45-101-50-49-49-45-97-50-49-49-45-48-48-50-54-53-53-101-54-99-49-50-54-38-115-115-105-100-61-56-102-51-100-55-54-49-53-45-53-51-57-54-45-52-48-48-102-45-97-55-51-54-45-100-49-50-48-100-98-50-55-50-54-98-52-38-116-111-117-114-110-97-109-101-110-116-105-100-61-102-49-54-55-97-99-102-98-45-54-53-55-99-45-101-50-49-49-45-97-50-49-49-45-48-48-50-54-53-53-101-54-99-49-50-54-' >Sign In</a></li>
+</ul>
+</nav>
+    
+            </header>
+            
+            
+            
+            
+            
+            <div id="mantle_skin" > 
+            
+                
+        
+                
+    <div id="ad_87481" class="ad ad-container siteskin">
+
+</div>
+    <div id="ad_87482" class="ad ad-container presenting" style="width:970px;">
+
+</div>
+
+                      
+                <div id="content">
+                            
+                    
+                    
+                    
+	<div class="content-center" >
+				
+
+
+		       
+		<h2 class="bracket-name" >Class 5A</h2><a target="_blank" class="print" href="/tournament/print.aspx?bracketid=7e09563c-667c-e211-a211-002655e6c126&tournamentid=f167acfb-657c-e211-a211-002655e6c126&ssid=8f3d7615-5396-400f-a736-d120db2726b4" >View Print Format</a><div class="bracket has-6-rounds rounds-have-date" ><div class="left-side-rounds pre-championship-rounds" ><div class="round round-1" ><header>
+<span class="round-name" title="Round 1 (@ higher seed)" >Round 1 (@ higher seed)</span><abbr class="date" title="2013-02-27T08:00:00" >2/27</abbr>
+</header>
+<div class="match-ups" >
+<div class="match-up"  ><header>
+<abbr class="date" title="2013-02-27T00:00:00" >Wed, Feb 27</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >1</span><span class="name" >
+<a href="/high-schools/regis-jesuit-raiders-(aurora,co)/basketball-winter-12-13/home.htm" title="Regis Jesuit (Aurora, CO)"  >Regis Jesuit</a></span>
+<span class="result bye" >Bye</span>
+</li>
+
+<li class="team has-seed seed-is-1-chars" ></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:110px;" ><header>
+<abbr class="date" title="2013-02-27T19:00:00" >Wed, Feb 27 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >8</span><span class="name" >
+<a href="/high-schools/boulder-panthers-(boulder,co)/basketball-winter-12-13/home.htm" title="Boulder (CO)"  >Boulder</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=1d6ff912-99a8-4a55-af23-7ac9243170c8&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >56</a></li>
+
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >9</span><span class="name" >
+<a href="/high-schools/george-washington-patriots-(denver,co)/basketball-winter-12-13/home.htm" title="George Washington (Denver, CO)"  >George Washington</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=1d6ff912-99a8-4a55-af23-7ac9243170c8&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >45</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:45px; height:200px;" ></div>
+<div class="match-up" style="margin-top:10px;" ><header>
+<abbr class="date" title="2013-02-27T00:00:00" >Wed, Feb 27</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >4</span><span class="name" >
+<a href="/high-schools/grand-junction-tigers-(grand-junction,co)/basketball-winter-12-13/home.htm" title="Grand Junction (CO)"  >Grand Junction</a></span>
+<span class="result bye" >Bye</span>
+</li>
+
+<li class="team has-seed seed-is-1-chars" ></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:110px;" ><header>
+<abbr class="date" title="2013-02-27T18:30:00" >Wed, Feb 27 @ 6:30p</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >5</span><span class="name" >
+<a href="/high-schools/fort-collins-lambkins-(fort-collins,co)/basketball-winter-12-13/home.htm" title="Fort Collins (CO)"  >Fort Collins</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=5d9ae48f-0664-46b4-93c5-3a4b3b47590d&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >69</a></li>
+
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >12</span><span class="name" >
+<a href="/high-schools/rock-canyon-jaguars-(highlands-ranch,co)/basketball-winter-12-13/home.htm" title="Rock Canyon (Highlands Ranch, CO)"  >Rock Canyon</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=5d9ae48f-0664-46b4-93c5-3a4b3b47590d&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >57</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:345px; height:200px;" ></div>
+<div class="match-up" style="margin-top:10px;" ><header>
+<abbr class="date" title="2013-02-27T00:00:00" >Wed, Feb 27</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >2</span><span class="name" >
+<a href="/high-schools/eaglecrest-raptors-(centennial,co)/basketball-winter-12-13/home.htm" title="Eaglecrest (Centennial, CO)"  >Eaglecrest</a></span>
+<span class="result bye" >Bye</span>
+</li>
+
+<li class="team has-seed seed-is-1-chars" ></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:110px;" ><header>
+<abbr class="date" title="2013-02-27T19:00:00" >Wed, Feb 27 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >7</span><span class="name" >
+<a href="/high-schools/montbello-warriors-(denver,co)/basketball-winter-12-13/home.htm" title="Montbello (Denver, CO)"  >Montbello</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=44b80ec0-1d66-41cc-88f4-8a9a23b8d7f8&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >41</a></li>
+
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >10</span><span class="name" >
+<a href="/high-schools/arvada-west-wildcats-(arvada,co)/basketball-winter-12-13/home.htm" title="Arvada West (Arvada, CO)"  >Arvada West</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=44b80ec0-1d66-41cc-88f4-8a9a23b8d7f8&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >52</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:645px; height:200px;" ></div>
+<div class="match-up" style="margin-top:10px;" ><header>
+<abbr class="date" title="2013-02-27T00:00:00" >Wed, Feb 27</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >3</span><span class="name" >
+<a href="/high-schools/rangeview-raiders-(aurora,co)/basketball-winter-12-13/home.htm" title="Rangeview (Aurora, CO)"  >Rangeview</a></span>
+<span class="result bye" >Bye</span>
+</li>
+
+<li class="team has-seed seed-is-1-chars" ></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:110px;" ><header>
+<abbr class="date" title="2013-02-27T19:00:00" >Wed, Feb 27 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >6</span><span class="name" >
+<a href="/high-schools/highlands-ranch-falcons-(highlands-ranch,co)/basketball-winter-12-13/home.htm" title="Highlands Ranch (CO)"  >Highlands Ranch</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=c36c5c39-28af-4112-99b6-ff655feed172&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >64</a></li>
+
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >11</span><span class="name" >
+<a href="/high-schools/mullen-mustangs-(denver,co)/basketball-winter-12-13/home.htm" title="Mullen (Denver, CO)"  >Mullen</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=c36c5c39-28af-4112-99b6-ff655feed172&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >39</a></li>
+
+</ul>
+<footer>
+<span class="location" > <a onclick="MaxPreps.UI.Popup.MessagePopup.getInstance().showPopup(&quot;Mullen vs. Highlands Ranch&quot;, &quot;Game Location: 1st Round of 5A Playoffs&quot;);" title="1st Round of 5A Playoffs" >1st Round of 5A Playoffs</a></span></footer>
+</div>
+
+<div class="next-round-match-up" style="top:945px; height:200px;" ></div>
+<div class="match-up" style="margin-top:10px;" ><header>
+<abbr class="date" title="2013-02-27T00:00:00" >Wed, Feb 27</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >1</span><span class="name" >
+<a href="/high-schools/mountain-vista-golden-eagles-(highlands-ranch,co)/basketball-winter-12-13/home.htm" title="Mountain Vista (Highlands Ranch, CO)"  >Mountain Vista</a></span>
+<span class="result bye" >Bye</span>
+</li>
+
+<li class="team has-seed seed-is-1-chars" ></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:110px;" ><header>
+<abbr class="date" title="2013-02-27T18:00:00" >Wed, Feb 27 @ 6p</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >8</span><span class="name" >
+<a href="/high-schools/pine-creek-eagles-(colorado-springs,co)/basketball-winter-12-13/home.htm" title="Pine Creek (Colorado Springs, CO)"  >Pine Creek</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=e5ba90fa-2e80-4484-9706-6528c564276b&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >56</a></li>
+
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >9</span><span class="name" >
+<a href="/high-schools/lincoln-lancers-(denver,co)/basketball-winter-12-13/home.htm" title="Lincoln (Denver, CO)"  >Lincoln</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=e5ba90fa-2e80-4484-9706-6528c564276b&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >60</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:1245px; height:200px;" ></div>
+<div class="match-up" style="margin-top:10px;" ><header>
+<abbr class="date" title="2013-02-27T00:00:00" >Wed, Feb 27</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >4</span><span class="name" >
+<a href="/high-schools/monarch-coyotes-(louisville,co)/basketball-winter-12-13/home.htm" title="Monarch (Louisville, CO)"  >Monarch</a></span>
+<span class="result bye" >Bye</span>
+</li>
+
+<li class="team has-seed seed-is-1-chars" ></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:110px;" ><header>
+<abbr class="date" title="2013-02-27T19:00:00" >Wed, Feb 27 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >5</span><span class="name" >
+<a href="/high-schools/ralston-valley-mustangs-(arvada,co)/basketball-winter-12-13/home.htm" title="Ralston Valley (Arvada, CO)"  >Ralston Valley</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=994f107f-029e-48da-b054-bf8929776368&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >77</a></li>
+
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >12</span><span class="name" >
+<a href="/high-schools/smoky-hill-buffaloes-(aurora,co)/basketball-winter-12-13/home.htm" title="Smoky Hill (Aurora, CO)"  >Smoky Hill</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=994f107f-029e-48da-b054-bf8929776368&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >54</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:1545px; height:200px;" ></div>
+<div class="match-up" style="margin-top:10px;" ><header>
+<abbr class="date" title="2013-02-27T00:00:00" >Wed, Feb 27</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >2</span><span class="name" >
+<a href="/high-schools/cherokee-trail-cougars-(aurora,co)/basketball-winter-12-13/home.htm" title="Cherokee Trail (Aurora, CO)"  >Cherokee Trail</a></span>
+<span class="result bye" >Bye</span>
+</li>
+
+<li class="team has-seed seed-is-1-chars" ></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:110px;" ><header>
+<abbr class="date" title="2013-02-27T18:30:00" >Wed, Feb 27 @ 6:30p</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >7</span><span class="name" >
+<a href="/high-schools/lakewood-tigers-(lakewood,co)/basketball-winter-12-13/home.htm" title="Lakewood (CO)"  >Lakewood</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=7634c4c7-1e82-4401-9f38-40d99607b717&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >51</a></li>
+
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >10</span><span class="name" >
+<a href="/high-schools/poudre-impalas-(fort-collins,co)/basketball-winter-12-13/home.htm" title="Poudre (Fort Collins, CO)"  >Poudre</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=7634c4c7-1e82-4401-9f38-40d99607b717&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >44</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:1845px; height:200px;" ></div>
+<div class="match-up" style="margin-top:10px;" ><header>
+<abbr class="date" title="2013-02-27T00:00:00" >Wed, Feb 27</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >3</span><span class="name" >
+<a href="/high-schools/aurora-central-trojans-(aurora,co)/basketball-winter-12-13/home.htm" title="Aurora Central (Aurora, CO)"  >Aurora Central</a></span>
+<span class="result bye" >Bye</span>
+</li>
+
+<li class="team has-seed seed-is-1-chars" ></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:110px;" ><header>
+<abbr class="date" title="2013-02-27T19:00:00" >Wed, Feb 27 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >6</span><span class="name" >
+<a href="/high-schools/cherry-creek-bruins-(greenwood-village,co)/basketball-winter-12-13/home.htm" title="Cherry Creek (Greenwood Village, CO)"  >Cherry Creek</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=30011987-4f7c-4320-b697-3cb99106b99e&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >61</a></li>
+
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >11</span><span class="name" >
+<a href="/high-schools/littleton-lions-(littleton,co)/basketball-winter-12-13/home.htm" title="Littleton (CO)"  >Littleton</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=30011987-4f7c-4320-b697-3cb99106b99e&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >38</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:2145px; height:200px;" ></div>
+</div>
+</div><div class="round round-2" ><header>
+<span class="round-name" title="Round 2 (@ higher seed)" >Round 2 (@ higher seed)</span><abbr class="date" title="2013-03-02T08:00:00" >3/2</abbr>
+</header>
+<div class="match-ups" >
+<div class="match-up" style="margin-top:100px;" ><header>
+<abbr class="date" title="2013-03-02T18:00:00" >Sat, Mar 2 @ 6p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/regis-jesuit-raiders-(aurora,co)/basketball-winter-12-13/home.htm" title="Regis Jesuit (Aurora, CO)"  >Regis Jesuit</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=628dee35-b93c-4d96-8d40-c823ebbf4c25&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >56</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/boulder-panthers-(boulder,co)/basketball-winter-12-13/home.htm" title="Boulder (CO)"  >Boulder</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=628dee35-b93c-4d96-8d40-c823ebbf4c25&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >52</a></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:210px;" ><header>
+<abbr class="date" title="2013-03-02T17:00:00" >Sat, Mar 2 @ 5p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/grand-junction-tigers-(grand-junction,co)/basketball-winter-12-13/home.htm" title="Grand Junction (CO)"  >Grand Junction</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=8c737f8e-947f-47ba-bea3-cf215781171b&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >49</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/fort-collins-lambkins-(fort-collins,co)/basketball-winter-12-13/home.htm" title="Fort Collins (CO)"  >Fort Collins</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=8c737f8e-947f-47ba-bea3-cf215781171b&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >37</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:145px; height:300px;" ></div>
+<div class="match-up" style="margin-top:210px;" ><header>
+<abbr class="date" title="2013-03-02T19:00:00" >Sat, Mar 2 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/eaglecrest-raptors-(centennial,co)/basketball-winter-12-13/home.htm" title="Eaglecrest (Centennial, CO)"  >Eaglecrest</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=6998492b-3cb2-4ea7-9ac6-47f8a6ebec8d&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >52</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/arvada-west-wildcats-(arvada,co)/basketball-winter-12-13/home.htm" title="Arvada West (Arvada, CO)"  >Arvada West</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=6998492b-3cb2-4ea7-9ac6-47f8a6ebec8d&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >35</a></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:210px;" ><header>
+<abbr class="date" title="2013-03-02T15:00:00" >Sat, Mar 2 @ 3p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/rangeview-raiders-(aurora,co)/basketball-winter-12-13/home.htm" title="Rangeview (Aurora, CO)"  >Rangeview</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=18324b7b-612e-4844-a850-ddc6cddc9ac0&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >70</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/highlands-ranch-falcons-(highlands-ranch,co)/basketball-winter-12-13/home.htm" title="Highlands Ranch (CO)"  >Highlands Ranch</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=18324b7b-612e-4844-a850-ddc6cddc9ac0&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >64</a></li>
+
+</ul>
+<footer>
+<span class="location" > <a onclick="MaxPreps.UI.Popup.MessagePopup.getInstance().showPopup(&quot;Highlands Ranch vs. Rangeview&quot;, &quot;Game Location: 2nd Round of Class 5A State Tournament&quot;);" title="2nd Round of Class 5A State Tournament" >2nd Round of Class 5A State Tournament</a></span></footer>
+</div>
+
+<div class="next-round-match-up" style="top:745px; height:300px;" ></div>
+<div class="match-up" style="margin-top:210px;" ><header>
+<abbr class="date" title="2013-03-02T19:00:00" >Sat, Mar 2 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/mountain-vista-golden-eagles-(highlands-ranch,co)/basketball-winter-12-13/home.htm" title="Mountain Vista (Highlands Ranch, CO)"  >Mountain Vista</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=40d7f221-21d3-481f-96d0-0b9c497cf8bf&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >59</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/lincoln-lancers-(denver,co)/basketball-winter-12-13/home.htm" title="Lincoln (Denver, CO)"  >Lincoln</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=40d7f221-21d3-481f-96d0-0b9c497cf8bf&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >57</a></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:210px;" ><header>
+<abbr class="date" title="2013-03-02T18:00:00" >Sat, Mar 2 @ 6p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/monarch-coyotes-(louisville,co)/basketball-winter-12-13/home.htm" title="Monarch (Louisville, CO)"  >Monarch</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=1986c447-1cd5-40d2-92ed-3ee59c761da3&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >69</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/ralston-valley-mustangs-(arvada,co)/basketball-winter-12-13/home.htm" title="Ralston Valley (Arvada, CO)"  >Ralston Valley</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=1986c447-1cd5-40d2-92ed-3ee59c761da3&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >61</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:1345px; height:300px;" ></div>
+<div class="match-up" style="margin-top:210px;" ><header>
+<abbr class="date" title="2013-03-02T13:00:00" >Sat, Mar 2 @ 1p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/cherokee-trail-cougars-(aurora,co)/basketball-winter-12-13/home.htm" title="Cherokee Trail (Aurora, CO)"  >Cherokee Trail</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=e65d3000-a481-4640-98fd-24d94e10d80f&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >69</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/lakewood-tigers-(lakewood,co)/basketball-winter-12-13/home.htm" title="Lakewood (CO)"  >Lakewood</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=e65d3000-a481-4640-98fd-24d94e10d80f&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >66</a></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:210px;" ><header>
+<abbr class="date" title="2013-03-02T19:00:00" >Sat, Mar 2 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/aurora-central-trojans-(aurora,co)/basketball-winter-12-13/home.htm" title="Aurora Central (Aurora, CO)"  >Aurora Central</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=50a21132-ba5e-4ce2-a052-13231c9422ad&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >44</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/cherry-creek-bruins-(greenwood-village,co)/basketball-winter-12-13/home.htm" title="Cherry Creek (Greenwood Village, CO)"  >Cherry Creek</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=50a21132-ba5e-4ce2-a052-13231c9422ad&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >52</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:1945px; height:300px;" ></div>
+</div>
+</div><div class="round round-3" ><header>
+<span class="round-name" title="Sweet 16 (@ higher seed)" >Sweet 16 (@ higher seed)</span><abbr class="date" title="2013-03-06T08:00:00" >3/6</abbr>
+</header>
+<div class="match-ups" >
+<div class="match-up" style="margin-top:245px;" ><header>
+<abbr class="date" title="2013-03-06T18:00:00" >Wed, Mar 6 @ 6p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/regis-jesuit-raiders-(aurora,co)/basketball-winter-12-13/home.htm" title="Regis Jesuit (Aurora, CO)"  >Regis Jesuit</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=3cc05b43-e53b-4de9-83c7-6fcf292ea067&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >67</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/grand-junction-tigers-(grand-junction,co)/basketball-winter-12-13/home.htm" title="Grand Junction (CO)"  >Grand Junction</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=3cc05b43-e53b-4de9-83c7-6fcf292ea067&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >42</a></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:510px;" ><header>
+<abbr class="date" title="2013-03-06T19:00:00" >Wed, Mar 6 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/eaglecrest-raptors-(centennial,co)/basketball-winter-12-13/home.htm" title="Eaglecrest (Centennial, CO)"  >Eaglecrest</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=f1aff6b7-e4d0-46b8-a66f-ae0ade47302f&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >45</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/rangeview-raiders-(aurora,co)/basketball-winter-12-13/home.htm" title="Rangeview (Aurora, CO)"  >Rangeview</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=f1aff6b7-e4d0-46b8-a66f-ae0ade47302f&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >32</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:290px; height:600px;" ></div>
+<div class="match-up" style="margin-top:510px;" ><header>
+<abbr class="date" title="2013-03-06T19:00:00" >Wed, Mar 6 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/mountain-vista-golden-eagles-(highlands-ranch,co)/basketball-winter-12-13/home.htm" title="Mountain Vista (Highlands Ranch, CO)"  >Mountain Vista</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=aa77f49b-065d-499e-8267-efa90d995f4b&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >75</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/monarch-coyotes-(louisville,co)/basketball-winter-12-13/home.htm" title="Monarch (Louisville, CO)"  >Monarch</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=aa77f49b-065d-499e-8267-efa90d995f4b&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >60</a></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:510px;" ><header>
+<abbr class="date" title="2013-03-06T19:00:00" >Wed, Mar 6 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/cherokee-trail-cougars-(aurora,co)/basketball-winter-12-13/home.htm" title="Cherokee Trail (Aurora, CO)"  >Cherokee Trail</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=884d1b60-7e1a-46f0-97a1-655edd29209e&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >61</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/cherry-creek-bruins-(greenwood-village,co)/basketball-winter-12-13/home.htm" title="Cherry Creek (Greenwood Village, CO)"  >Cherry Creek</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=884d1b60-7e1a-46f0-97a1-655edd29209e&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >59</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:1490px; height:600px;" ></div>
+</div>
+</div><div class="round round-4" ><header>
+<span class="round-name" title="Great 8 (@ Denver Coliseum)" >Great 8 (@ Denver Coliseum)</span><abbr class="date" title="2013-03-08T08:00:00" >3/8</abbr>
+</header>
+<div class="match-ups" >
+<div class="match-up" style="margin-top:545px;" ><header>
+<abbr class="date" title="2013-03-08T16:00:00" >Fri, Mar 8 @ 4p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+Regis Jesuit</span>
+<a href="/local/stats/boxscore.aspx?contestid=abb2cc5b-4f9d-4d4b-b8b2-ac885f226494&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >57</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/eaglecrest-raptors-(centennial,co)/basketball-winter-12-13/home.htm" title="Eaglecrest (Centennial, CO)"  >Eaglecrest</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=abb2cc5b-4f9d-4d4b-b8b2-ac885f226494&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >64</a></li>
+
+</ul>
+<footer>
+<span class="location" > <a onclick="MaxPreps.UI.Popup.MessagePopup.getInstance().showPopup(&quot;Eaglecrest vs. Regis Jesuit&quot;, &quot;Game Location: Denver Coliseum&quot;);" title="Denver Coliseum" >Denver Coliseum</a></span></footer>
+</div>
+
+<div class="match-up" style="margin-top:1110px;" ><header>
+<abbr class="date" title="2013-03-08T19:00:00" >Fri, Mar 8 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/mountain-vista-golden-eagles-(highlands-ranch,co)/basketball-winter-12-13/home.htm" title="Mountain Vista (Highlands Ranch, CO)"  >Mountain Vista</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=23b9d599-4244-452c-abe8-78d0caf5a56b&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >78</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/cherokee-trail-cougars-(aurora,co)/basketball-winter-12-13/home.htm" title="Cherokee Trail (Aurora, CO)"  >Cherokee Trail</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=23b9d599-4244-452c-abe8-78d0caf5a56b&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >76</a></li>
+
+</ul>
+<footer>
+<span class="location" > <a onclick="MaxPreps.UI.Popup.MessagePopup.getInstance().showPopup(&quot;Cherokee Trail vs. Mountain Vista&quot;, &quot;Game Location: Denver Coliseum&quot;);" title="Denver Coliseum" >Denver Coliseum</a></span></footer>
+</div>
+
+</div>
+</div></div><div class="center-rounds" >
+<div class="championship-round" >
+<div style="top:1162px; margin-top:-150px" ><div class="round-6" >
+<header class="round-header">Championship</header><div class="match-up"  ><header>
+<abbr class="date" title="2013-03-16T20:00:00" >Sat, Mar 16 @ 8p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/local/team/home.aspx?schoolid=00000000-0000-0000-0000-000000000000&ssid=8f3d7615-5396-400f-a736-d120db2726b4" title=""  ></a></span>
+</li>
+
+<li class="team " >
+<span class="name" >
+<a href="/local/team/home.aspx?schoolid=00000000-0000-0000-0000-000000000000&ssid=8f3d7615-5396-400f-a736-d120db2726b4" title=""  ></a></span>
+</li>
+
+</ul>
+<footer>
+<span class="location" > <a onclick="MaxPreps.UI.Popup.MessagePopup.getInstance().showPopup(&quot; vs. &quot;, &quot;Game Location: Coors Events Center Boulder, CO&quot;);" title="Coors Events Center Boulder, CO" >Coors Events Center Boulder, CO</a></span></footer>
+</div>
+
+<div class="next-round-match-up left-round-line" ></div><div class="next-round-match-up right-round-line" ></div></div>
+<div class="round-5" >
+<div class="left-round" >
+<header class="round-header" title="Final 4 (@ CU-Boulder)" >Final 4 (@ CU-Boulder)</header><div class="match-up"  ><header>
+<abbr class="date" title="2013-03-15T20:30:00" >Fri, Mar 15 @ 8:30p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/eaglecrest-raptors-(centennial,co)/basketball-winter-12-13/home.htm" title="Eaglecrest (Centennial, CO)"  >Eaglecrest</a></span>
+</li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/mountain-vista-golden-eagles-(highlands-ranch,co)/basketball-winter-12-13/home.htm" title="Mountain Vista (Highlands Ranch, CO)"  >Mountain Vista</a></span>
+</li>
+
+</ul>
+<footer>
+<span class="location" > <a onclick="MaxPreps.UI.Popup.MessagePopup.getInstance().showPopup(&quot;Mountain Vista vs. Eaglecrest&quot;, &quot;Game Location: Coors Events Center Boulder, CO&quot;);" title="Coors Events Center Boulder, CO" >Coors Events Center Boulder, CO</a></span></footer>
+</div>
+
+</div>
+<div class="right-round" >
+<header class="round-header" title="Final 4 (@ CU-Boulder)" >Final 4 (@ CU-Boulder)</header><div class="match-up"  ><header>
+<abbr class="date" title="2013-03-15T19:00:00" >Fri, Mar 15 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/legend-titans-(parker,co)/basketball-winter-12-13/home.htm" title="Legend (Parker, CO)"  >Legend</a></span>
+</li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/denver-east-angels-(denver,co)/basketball-winter-12-13/home.htm" title="Denver East (Denver, CO)"  >Denver East</a></span>
+</li>
+
+</ul>
+<footer>
+<span class="location" > <a onclick="MaxPreps.UI.Popup.MessagePopup.getInstance().showPopup(&quot;Denver East vs. Legend&quot;, &quot;Game Location: Coors Events Center Boulder, CO&quot;);" title="Coors Events Center Boulder, CO" >Coors Events Center Boulder, CO</a></span></footer>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div><div class="right-side-rounds pre-championship-rounds" ><div class="round round-4" ><header>
+<span class="round-name" title="Great 8 (@ Denver Coliseum)" >Great 8 (@ Denver Coliseum)</span><abbr class="date" title="2013-03-08T08:00:00" >3/8</abbr>
+</header>
+<div class="match-ups" >
+<div class="match-up" style="margin-top:545px;" ><header>
+<abbr class="date" title="2013-03-08T20:30:00" >Fri, Mar 8 @ 8:30p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/legend-titans-(parker,co)/basketball-winter-12-13/home.htm" title="Legend (Parker, CO)"  >Legend</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=291d35a9-17d9-435d-84ee-27b9201745fe&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >46</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/fairview-knights-(boulder,co)/basketball-winter-12-13/home.htm" title="Fairview (Boulder, CO)"  >Fairview</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=291d35a9-17d9-435d-84ee-27b9201745fe&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >45</a></li>
+
+</ul>
+<footer>
+<span class="location" > <a onclick="MaxPreps.UI.Popup.MessagePopup.getInstance().showPopup(&quot;Fairview vs. Legend&quot;, &quot;Game Location: Denver Coliseum&quot;);" title="Denver Coliseum" >Denver Coliseum</a></span></footer>
+</div>
+
+<div class="match-up" style="margin-top:1110px;" ><header>
+<abbr class="date" title="2013-03-08T17:30:00" >Fri, Mar 8 @ 5:30p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/denver-east-angels-(denver,co)/basketball-winter-12-13/home.htm" title="Denver East (Denver, CO)"  >Denver East</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=9879ed98-05e3-465e-b822-f99258f6ca50&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >60</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/arapahoe-warriors-(centennial,co)/basketball-winter-12-13/home.htm" title="Arapahoe (Centennial, CO)"  >Arapahoe</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=9879ed98-05e3-465e-b822-f99258f6ca50&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >55</a></li>
+
+</ul>
+<footer>
+<span class="location" > <a onclick="MaxPreps.UI.Popup.MessagePopup.getInstance().showPopup(&quot;Arapahoe vs. Denver East&quot;, &quot;Game Location: Denver Coliseum&quot;);" title="Denver Coliseum" >Denver Coliseum</a></span></footer>
+</div>
+
+</div>
+</div><div class="round round-3" ><header>
+<span class="round-name" title="Sweet 16 (@ higher seed)" >Sweet 16 (@ higher seed)</span><abbr class="date" title="2013-03-06T08:00:00" >3/6</abbr>
+</header>
+<div class="match-ups" >
+<div class="match-up" style="margin-top:245px;" ><header>
+<abbr class="date" title="2013-03-06T19:00:00" >Wed, Mar 6 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/chatfield-chargers-(littleton,co)/basketball-winter-12-13/home.htm" title="Chatfield (Littleton, CO)"  >Chatfield</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=16a1a1ae-8a64-454f-9081-a89ebdb5771f&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >49</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/legend-titans-(parker,co)/basketball-winter-12-13/home.htm" title="Legend (Parker, CO)"  >Legend</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=16a1a1ae-8a64-454f-9081-a89ebdb5771f&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >51</a></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:510px;" ><header>
+<abbr class="date" title="2013-03-06T18:30:00" >Wed, Mar 6 @ 6:30p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/fairview-knights-(boulder,co)/basketball-winter-12-13/home.htm" title="Fairview (Boulder, CO)"  >Fairview</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=bd1f31ac-64ec-4548-8419-716fd28edfb8&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >55</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/thunderridge-grizzlies-(highlands-ranch,co)/basketball-winter-12-13/home.htm" title="ThunderRidge (Highlands Ranch, CO)"  >ThunderRidge</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=bd1f31ac-64ec-4548-8419-716fd28edfb8&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >52</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:290px; height:600px;" ></div>
+<div class="match-up" style="margin-top:510px;" ><header>
+<abbr class="date" title="2013-03-06T19:00:00" >Wed, Mar 6 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/denver-east-angels-(denver,co)/basketball-winter-12-13/home.htm" title="Denver East (Denver, CO)"  >Denver East</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=7619834a-fe50-45bb-b935-f033e666be4c&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >87</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/heritage-eagles-(littleton,co)/basketball-winter-12-13/home.htm" title="Heritage (Littleton, CO)"  >Heritage</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=7619834a-fe50-45bb-b935-f033e666be4c&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >60</a></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:510px;" ><header>
+<abbr class="date" title="2013-03-06T18:30:00" >Wed, Mar 6 @ 6:30p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/fossil-ridge-sabercats-(fort-collins,co)/basketball-winter-12-13/home.htm" title="Fossil Ridge (Fort Collins, CO)"  >Fossil Ridge</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=1ca8d8a3-8b86-4557-831b-c69531917c45&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >51</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/arapahoe-warriors-(centennial,co)/basketball-winter-12-13/home.htm" title="Arapahoe (Centennial, CO)"  >Arapahoe</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=1ca8d8a3-8b86-4557-831b-c69531917c45&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >53</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:1490px; height:600px;" ></div>
+</div>
+</div><div class="round round-2" ><header>
+<span class="round-name" title="Round 2 (@ higher seed)" >Round 2 (@ higher seed)</span><abbr class="date" title="2013-03-02T08:00:00" >3/2</abbr>
+</header>
+<div class="match-ups" >
+<div class="match-up" style="margin-top:100px;" ><header>
+<abbr class="date" title="2013-03-02T18:00:00" >Sat, Mar 2 @ 6p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/chatfield-chargers-(littleton,co)/basketball-winter-12-13/home.htm" title="Chatfield (Littleton, CO)"  >Chatfield</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=fc9832c0-0521-4f64-b1ea-24d358189188&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >62</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/loveland-indians-(loveland,co)/basketball-winter-12-13/home.htm" title="Loveland (CO)"  >Loveland</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=fc9832c0-0521-4f64-b1ea-24d358189188&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >47</a></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:210px;" ><header>
+<abbr class="date" title="2013-03-02T19:00:00" >Sat, Mar 2 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/grandview-wolves-(aurora,co)/basketball-winter-12-13/home.htm" title="Grandview (Aurora, CO)"  >Grandview</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=1361ed92-784d-4d6f-ba73-70d1614f8a5f&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >67</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/legend-titans-(parker,co)/basketball-winter-12-13/home.htm" title="Legend (Parker, CO)"  >Legend</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=1361ed92-784d-4d6f-ba73-70d1614f8a5f&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >75</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:145px; height:300px;" ></div>
+<div class="match-up" style="margin-top:210px;" ><header>
+<abbr class="date" title="2013-03-02T13:00:00" >Sat, Mar 2 @ 1p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/fairview-knights-(boulder,co)/basketball-winter-12-13/home.htm" title="Fairview (Boulder, CO)"  >Fairview</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=0b30e3a7-f17b-4447-bcfc-d2a5f30783d6&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >65</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/liberty-lancers-(colorado-springs,co)/basketball-winter-12-13/home.htm" title="Liberty (Colorado Springs, CO)"  >Liberty</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=0b30e3a7-f17b-4447-bcfc-d2a5f30783d6&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >57</a></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:210px;" ><header>
+<abbr class="date" title="2013-03-02T14:00:00" >Sat, Mar 2 @ 2p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/thunderridge-grizzlies-(highlands-ranch,co)/basketball-winter-12-13/home.htm" title="ThunderRidge (Highlands Ranch, CO)"  >ThunderRidge</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=4ad39492-d8db-42cc-b413-b9a3db848b3c&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >67</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/overland-trailblazers-(aurora,co)/basketball-winter-12-13/home.htm" title="Overland (Aurora, CO)"  >Overland</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=4ad39492-d8db-42cc-b413-b9a3db848b3c&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >57</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:745px; height:300px;" ></div>
+<div class="match-up" style="margin-top:210px;" ><header>
+<abbr class="date" title="2013-03-02T13:00:00" >Sat, Mar 2 @ 1p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/denver-east-angels-(denver,co)/basketball-winter-12-13/home.htm" title="Denver East (Denver, CO)"  >Denver East</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=d4ff6d51-dfcc-4e4b-9095-0e64562f5f76&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >66</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/dakota-ridge-eagles-(littleton,co)/basketball-winter-12-13/home.htm" title="Dakota Ridge (Littleton, CO)"  >Dakota Ridge</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=d4ff6d51-dfcc-4e4b-9095-0e64562f5f76&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >54</a></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:210px;" ><header>
+<abbr class="date" title="2013-03-02T19:00:00" >Sat, Mar 2 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/fountain-fort-carson-trojans-(fountain,co)/basketball-winter-12-13/home.htm" title="Fountain-Fort Carson (Fountain, CO)"  >Fountain-Fort Carson</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=ef4e6267-8102-42a3-9f80-3c93b1849e0b&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >66</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/heritage-eagles-(littleton,co)/basketball-winter-12-13/home.htm" title="Heritage (Littleton, CO)"  >Heritage</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=ef4e6267-8102-42a3-9f80-3c93b1849e0b&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >75</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:1345px; height:300px;" ></div>
+<div class="match-up" style="margin-top:210px;" ><header>
+<abbr class="date" title="2013-03-02T15:00:00" >Sat, Mar 2 @ 3p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/fossil-ridge-sabercats-(fort-collins,co)/basketball-winter-12-13/home.htm" title="Fossil Ridge (Fort Collins, CO)"  >Fossil Ridge</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=a801a0e7-2aff-495d-8da9-8dac6d3cf561&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >58</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/chaparral-wolverines-(parker,co)/basketball-winter-12-13/home.htm" title="Chaparral (Parker, CO)"  >Chaparral</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=a801a0e7-2aff-495d-8da9-8dac6d3cf561&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >51</a></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:210px;" ><header>
+<abbr class="date" title="2013-03-02T18:00:00" >Sat, Mar 2 @ 6p</abbr></header>
+<ul class="teams" >
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/columbine-rebels-(littleton,co)/basketball-winter-12-13/home.htm" title="Columbine (Littleton, CO)"  >Columbine</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=eda8d9e0-29ab-48a7-9953-610a215bccf4&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >47</a></li>
+
+<li class="team " >
+<span class="name" >
+<a href="/high-schools/arapahoe-warriors-(centennial,co)/basketball-winter-12-13/home.htm" title="Arapahoe (Centennial, CO)"  >Arapahoe</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=eda8d9e0-29ab-48a7-9953-610a215bccf4&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >61</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:1945px; height:300px;" ></div>
+</div>
+</div><div class="round round-1" ><header>
+<span class="round-name" title="Round 1 (@ higher seed)" >Round 1 (@ higher seed)</span><abbr class="date" title="2013-02-27T08:00:00" >2/27</abbr>
+</header>
+<div class="match-ups" >
+<div class="match-up"  ><header>
+<abbr class="date" title="2013-02-27T00:00:00" >Wed, Feb 27</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >1</span><span class="name" >
+<a href="/high-schools/chatfield-chargers-(littleton,co)/basketball-winter-12-13/home.htm" title="Chatfield (Littleton, CO)"  >Chatfield</a></span>
+<span class="result bye" >Bye</span>
+</li>
+
+<li class="team has-seed seed-is-1-chars" ></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:110px;" ><header>
+<abbr class="date" title="2013-02-27T19:00:00" >Wed, Feb 27 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >8</span><span class="name" >
+<a href="/high-schools/loveland-indians-(loveland,co)/basketball-winter-12-13/home.htm" title="Loveland (CO)"  >Loveland</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=8314f51a-6e73-4696-b6e0-619db20eb0f4&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >75</a></li>
+
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >9</span><span class="name" >
+<a href="/high-schools/doherty-spartans-(colorado-springs,co)/basketball-winter-12-13/home.htm" title="Doherty (Colorado Springs, CO)"  >Doherty</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=8314f51a-6e73-4696-b6e0-619db20eb0f4&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >49</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:45px; height:200px;" ></div>
+<div class="match-up" style="margin-top:10px;" ><header>
+<abbr class="date" title="2013-02-27T00:00:00" >Wed, Feb 27</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >4</span><span class="name" >
+<a href="/high-schools/grandview-wolves-(aurora,co)/basketball-winter-12-13/home.htm" title="Grandview (Aurora, CO)"  >Grandview</a></span>
+<span class="result bye" >Bye</span>
+</li>
+
+<li class="team has-seed seed-is-1-chars" ></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:110px;" ><header>
+<abbr class="date" title="2013-02-27T19:00:00" >Wed, Feb 27 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >5</span><span class="name" >
+<a href="/high-schools/legend-titans-(parker,co)/basketball-winter-12-13/home.htm" title="Legend (Parker, CO)"  >Legend</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=c15e8494-67ef-4470-9047-d26c231dc162&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >58</a></li>
+
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >12</span><span class="name" >
+<a href="/high-schools/rocky-mountain-lobos-(fort-collins,co)/basketball-winter-12-13/home.htm" title="Rocky Mountain (Fort Collins, CO)"  >Rocky Mountain</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=c15e8494-67ef-4470-9047-d26c231dc162&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >34</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:345px; height:200px;" ></div>
+<div class="match-up" style="margin-top:10px;" ><header>
+<abbr class="date" title="2013-02-27T00:00:00" >Wed, Feb 27</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >2</span><span class="name" >
+<a href="/high-schools/fairview-knights-(boulder,co)/basketball-winter-12-13/home.htm" title="Fairview (Boulder, CO)"  >Fairview</a></span>
+<span class="result bye" >Bye</span>
+</li>
+
+<li class="team has-seed seed-is-1-chars" ></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:110px;" ><header>
+<abbr class="date" title="2013-02-27T19:00:00" >Wed, Feb 27 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >7</span><span class="name" >
+<a href="/high-schools/liberty-lancers-(colorado-springs,co)/basketball-winter-12-13/home.htm" title="Liberty (Colorado Springs, CO)"  >Liberty</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=8c81915b-209f-435d-9623-4942f9c1fc10&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >68</a></li>
+
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >10</span><span class="name" >
+<a href="/high-schools/thornton-trojans-(thornton,co)/basketball-winter-12-13/home.htm" title="Thornton (CO)"  >Thornton</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=8c81915b-209f-435d-9623-4942f9c1fc10&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >43</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:645px; height:200px;" ></div>
+<div class="match-up" style="margin-top:10px;" ><header>
+<abbr class="date" title="2013-02-27T00:00:00" >Wed, Feb 27</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >3</span><span class="name" >
+<a href="/high-schools/thunderridge-grizzlies-(highlands-ranch,co)/basketball-winter-12-13/home.htm" title="ThunderRidge (Highlands Ranch, CO)"  >ThunderRidge</a></span>
+<span class="result bye" >Bye</span>
+</li>
+
+<li class="team has-seed seed-is-1-chars" ></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:110px;" ><header>
+<abbr class="date" title="2013-02-27T19:00:00" >Wed, Feb 27 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >6</span><span class="name" >
+<a href="/high-schools/overland-trailblazers-(aurora,co)/basketball-winter-12-13/home.htm" title="Overland (Aurora, CO)"  >Overland</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=7a79cf16-9dab-4e66-9002-4607faac0190&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >63</a></li>
+
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >11</span><span class="name" >
+<a href="/high-schools/rampart-rams-(colorado-springs,co)/basketball-winter-12-13/home.htm" title="Rampart (Colorado Springs, CO)"  >Rampart</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=7a79cf16-9dab-4e66-9002-4607faac0190&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >55</a></li>
+
+</ul>
+<footer>
+<span class="location" > <a onclick="MaxPreps.UI.Popup.MessagePopup.getInstance().showPopup(&quot;Rampart vs. Overland&quot;, &quot;Game Location: Overland High School&quot;);" title="Overland High School" >Overland High School</a></span></footer>
+</div>
+
+<div class="next-round-match-up" style="top:945px; height:200px;" ></div>
+<div class="match-up" style="margin-top:10px;" ><header>
+<abbr class="date" title="2013-02-27T00:00:00" >Wed, Feb 27</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >1</span><span class="name" >
+<a href="/high-schools/denver-east-angels-(denver,co)/basketball-winter-12-13/home.htm" title="Denver East (Denver, CO)"  >Denver East</a></span>
+<span class="result bye" >Bye</span>
+</li>
+
+<li class="team has-seed seed-is-1-chars" ></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:110px;" ><header>
+<abbr class="date" title="2013-02-27T19:00:00" >Wed, Feb 27 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >8</span><span class="name" >
+<a href="/high-schools/dakota-ridge-eagles-(littleton,co)/basketball-winter-12-13/home.htm" title="Dakota Ridge (Littleton, CO)"  >Dakota Ridge</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=9f5e77a1-6192-4c94-bf83-c4a3410f55e0&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >65</a></li>
+
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >9</span><span class="name" >
+<a href="/high-schools/horizon-hawks-(thornton,co)/basketball-winter-12-13/home.htm" title="Horizon (Thornton, CO)"  >Horizon</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=9f5e77a1-6192-4c94-bf83-c4a3410f55e0&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >58</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:1245px; height:200px;" ></div>
+<div class="match-up" style="margin-top:10px;" ><header>
+<abbr class="date" title="2013-02-27T00:00:00" >Wed, Feb 27</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >4</span><span class="name" >
+<a href="/high-schools/fountain-fort-carson-trojans-(fountain,co)/basketball-winter-12-13/home.htm" title="Fountain-Fort Carson (Fountain, CO)"  >Fountain-Fort Carson</a></span>
+<span class="result bye" >Bye</span>
+</li>
+
+<li class="team has-seed seed-is-1-chars" ></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:110px;" ><header>
+<abbr class="date" title="2013-02-27T18:30:00" >Wed, Feb 27 @ 6:30p</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >5</span><span class="name" >
+<a href="/high-schools/heritage-eagles-(littleton,co)/basketball-winter-12-13/home.htm" title="Heritage (Littleton, CO)"  >Heritage</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=1a76edf8-c57a-4b4a-977a-3b9c1261ea5e&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >66</a></li>
+
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >12</span><span class="name" >
+<a href="/high-schools/greeley-west-spartans-(greeley,co)/basketball-winter-12-13/home.htm" title="Greeley West (Greeley, CO)"  >Greeley West</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=1a76edf8-c57a-4b4a-977a-3b9c1261ea5e&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >61</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:1545px; height:200px;" ></div>
+<div class="match-up" style="margin-top:10px;" ><header>
+<abbr class="date" title="2013-02-27T00:00:00" >Wed, Feb 27</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >2</span><span class="name" >
+<a href="/high-schools/fossil-ridge-sabercats-(fort-collins,co)/basketball-winter-12-13/home.htm" title="Fossil Ridge (Fort Collins, CO)"  >Fossil Ridge</a></span>
+<span class="result bye" >Bye</span>
+</li>
+
+<li class="team has-seed seed-is-1-chars" ></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:110px;" ><header>
+<abbr class="date" title="2013-02-27T19:00:00" >Wed, Feb 27 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >7</span><span class="name" >
+<a href="/high-schools/chaparral-wolverines-(parker,co)/basketball-winter-12-13/home.htm" title="Chaparral (Parker, CO)"  >Chaparral</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=d4802450-75d8-42de-bbfe-fed1964d841f&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >59</a></li>
+
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >10</span><span class="name" >
+<a href="/high-schools/brighton-bulldogs-(brighton,co)/basketball-winter-12-13/home.htm" title="Brighton (CO)"  >Brighton</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=d4802450-75d8-42de-bbfe-fed1964d841f&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >47</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:1845px; height:200px;" ></div>
+<div class="match-up" style="margin-top:10px;" ><header>
+<abbr class="date" title="2013-02-27T00:00:00" >Wed, Feb 27</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-1-chars" ><span class="seed" >3</span><span class="name" >
+<a href="/high-schools/columbine-rebels-(littleton,co)/basketball-winter-12-13/home.htm" title="Columbine (Littleton, CO)"  >Columbine</a></span>
+<span class="result bye" >Bye</span>
+</li>
+
+<li class="team has-seed seed-is-1-chars" ></li>
+
+</ul>
+</div>
+
+<div class="match-up" style="margin-top:110px;" ><header>
+<abbr class="date" title="2013-02-27T19:00:00" >Wed, Feb 27 @ 7p</abbr></header>
+<ul class="teams" >
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >6</span><span class="name" >
+<a href="/high-schools/arapahoe-warriors-(centennial,co)/basketball-winter-12-13/home.htm" title="Arapahoe (Centennial, CO)"  >Arapahoe</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=65f733fe-4406-4bfc-a2dc-7b0006f30c45&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >86</a></li>
+
+<li class="team has-seed seed-is-2-chars" ><span class="seed" >11</span><span class="name" >
+<a href="/high-schools/castle-view-sabercats-(castle-rock,co)/basketball-winter-12-13/home.htm" title="Castle View (Castle Rock, CO)"  >Castle View</a></span>
+<a href="/local/stats/boxscore.aspx?contestid=65f733fe-4406-4bfc-a2dc-7b0006f30c45&ssid=8f3d7615-5396-400f-a736-d120db2726b4" class="result"  >49</a></li>
+
+</ul>
+</div>
+
+<div class="next-round-match-up" style="top:2145px; height:200px;" ></div>
+</div>
+</div></div></div>
+
